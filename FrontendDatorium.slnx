@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FrontendDatorium/frontenddatorium.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
